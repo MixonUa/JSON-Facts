@@ -1,38 +1,38 @@
 [
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Charlie",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   },
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Daisy",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   },
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Cooper",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   },
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Ginger",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   },
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Aspen",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   },
   {
-    "name" : "dog",
-    "fact" : "info"
-    "color" : "blue"
+    "name" : "Molly",
+    "fact" : "info",
+    "color" : "blue",
     "likes" : 12
   }
 ]
