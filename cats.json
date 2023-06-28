@@ -1,38 +1,38 @@
 [
   {
     "name" : "Felix",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Usually female cats are right-handed, and mail cats are left-handed",
+    "color" : "yellow",
+    "likes" : 48
   },
   {
     "name" : "Oscar",
-    "fact" : "info",
+    "fact" : "Cats don't taste sweet",
     "color" : "blue",
-    "likes" : 12
+    "likes" : 32
   },
   {
     "name" : "Luna",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Cats always land on their feet, no matter how high they are",
+    "color" : "green",
+    "likes" : 56
   },
   {
     "name" : "Simba",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Cats sweat through the pads of their paws",
+    "color" : "pink",
+    "likes" : 124
   },
   {
     "name" : "Mars",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "The first cats appeared before man",
+    "color" : "red",
+    "likes" : 65
   },
   {
     "name" : "Ollie",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "teal",
+    "color" : "Cats are nearsighted, but their peripheral vision and night vision are far superior compared to humans",
+    "likes" : 17
   }
 ]
