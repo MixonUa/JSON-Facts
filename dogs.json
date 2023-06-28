@@ -34,5 +34,11 @@
     "fact" : "Dog's sense of smell is at least 40x better than human's",
     "color" : "grey",
     "likes" : 57
+  },
+    {
+    "name" : "Scooby",
+    "fact" : "Human blood pressure goes down when petting a dog. And so does the dog’s",
+    "color" : "silver",
+    "likes" : 84
   }
 ]
