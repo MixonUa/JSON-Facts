@@ -31,8 +31,8 @@
   },
   {
     "name" : "Ollie",
-    "fact" : "teal",
-    "color" : "Cats are nearsighted, but their peripheral vision and night vision are far superior compared to humans",
+    "fact" : "Cats are nearsighted, but their peripheral vision and night vision are far superior compared to humans",
+    "color" : "teal",
     "likes" : 17
   }
 ]
