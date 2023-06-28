@@ -1,38 +1,38 @@
 [
   {
     "name" : "Charlie",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "While dogs sleep they can dream",
+    "color" : "purple",
+    "likes" : 43
   },
   {
     "name" : "Daisy",
-    "fact" : "info",
+    "fact" : "Dogs are the only animals that recognize human emotions",
     "color" : "blue",
-    "likes" : 12
+    "likes" : 164
   },
   {
     "name" : "Cooper",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Dogs don't like to be hugged",
+    "color" : "green",
+    "likes" : 55
   },
   {
     "name" : "Ginger",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Dogs can be pessimists or optimists",
+    "color" : "orange",
+    "likes" : 101
   },
   {
     "name" : "Aspen",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Dogs don't feel guilty",
+    "color" : "red",
+    "likes" : 98
   },
   {
     "name" : "Molly",
-    "fact" : "info",
-    "color" : "blue",
-    "likes" : 12
+    "fact" : "Dog's sense of smell is at least 40x better than human's",
+    "color" : "grey",
+    "likes" : 57
   }
 ]
